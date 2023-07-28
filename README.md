@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chenguangyao60
+- 👀 I’m interested in AI.
+- 🌱 I’m currently learning Python.
+- 💞️ Computer Science student skilled in Python.
+- 📫 Passionate about AI and machine learning. Always ready to learn and contribute.
